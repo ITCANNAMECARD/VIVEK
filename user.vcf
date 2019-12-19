@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Srinivasan;Pradeep;;;
+FN: Pradeep Srinivasan
+ORG:IT Business Solutions Sdn Bhd;
+TITLE:Senior Executive-Talent Acquisition
+EMAIL;type=INTERNET;type=WORK;type=pref:pradeep@itcan.biz
+TEL;type=WORK;type=VOICE:+60 10253 8121
+item1.ADR;type=WORK;type=pref:;;Unit No.:B-8-5, 8th Floor\, Northpoint Office Suites, MidValley City;;;No.1 Medan Syed Putra Utara;59200 Kuala Lumpur, Malaysia
+item1.X-ABADR:sg
+item2.URL;type=pref:www.itcan.biz
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
